@@ -4,6 +4,8 @@ the project has 2 main files car_parking_system.py which has all the functions a
 
 As the input should be a text file hence i have created 2 test files named test_file1.txt and test_file2.txt . In order to chech the result for a particluar file
 run this command into the project directory
+
+
   python input.py test_file1.txt
   
   this will run the program for that particular test_file1.txt
