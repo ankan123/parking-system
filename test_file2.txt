@@ -1,0 +1,20 @@
+create_parking_lot 10
+park MA-01-HH-1111 22
+park FF-02-HH-9997 32
+park RR-03-BB-5401 32
+park EE-44-HH-7777 40
+park YU-07-HH-7601 42
+leave 4
+leave 4
+display_all
+park KA-01-PP-3334 23
+park ER-19-HH-3141 32
+park TY-34-AW-6599 21
+display_all
+slot_numbers_for_cars_with_age 32
+registration_numbers_for_cars_with_age 32
+slot_number_for_car_with_number YU-07-HH-7601
+slot_number_for_car_with_number KA-01-HH-6641
+slot_number_for_car_with_number YU-07-HH-7601
+slot_number_for_car_with_number MH-04-AY-2111
+leave 10
